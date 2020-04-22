@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TubeFy</string>
+    <string name="playlist_hint">https://www.youtube.com/playlist..</string>
+    <string name="folder_hint">( i.e: music )</string>
+</resources>

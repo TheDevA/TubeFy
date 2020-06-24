@@ -5,9 +5,3 @@
 ## You Want To Contribute:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go on countrbite as much as you want and if you can Tag me in [Twitter](https://twitter.com/The_Dev_A)
 
-## How to download the app:
-You can get the app from here:
-* [Aptoide]()
-* [UpToDawn]()
-
-*More Stores Soon*
